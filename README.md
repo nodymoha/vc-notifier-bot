@@ -1,28 +1,18 @@
-# Discord VC Notifier Bot
+# Discord VC Notifier Bot Arabic Edition
 
-VC Notifier bot allows users to be notified when others join or leave voice channel(s).
-
-<h3 align="center">
-  <a href="https://vcnotifierbot.github.io/">Learn More & Add It To A Server</a>
-</h3>
+VC Notifier يرسل لك تنبيهات في حال دخول أو خروج شخص أو أشخاص إلى القنوات الصوتية
 
 
-<div align="center">
-  <img alt="Bot Demo" src="demo.png" />
-</div>
+## المميزات
 
-## Features
+ - إنشاء قناة خاصة بالتنبيهات الصوتية (يمكن تغييرها لاحقا)
+ - إرسال رسائل عند دخول أو خروج شخص أو أشخاص للقنوات الصوتية ، مع إمكانية تنبيه أشخاص محددين
 
- - Creates a VC Notifications channel to send notifications on (although this channel can be changed)
- - Sends messages when anyone joins or leaves a voice channel, and mentions notified users
+## الأوامر
 
-## Commands
+ - لتغيير القناة التي تظهر بها الرسائل ، أرسل رسالة بالأمر **vc!sendnotificationshere** في تلك القناة المختارة
+ - لاستقبال التنبيهات ، أرسل رسالة بالأمر **vc!notifyme** في أي قناة
+ - لإيقاف استقبال التنبيهات ، أرسل رسالة بالأمر **vc!dontnotifyme** في أي قناة
+ - للمساعدة ، أرسل رسالة بالأمر **vc!help** في أي قناة
 
- - To change the channel in which VC Notifications appear, send a message with **vc!sendnotificationshere** on that channel.
- - To receive VC notifications, send a message with **vc!notifyme** on any channel.
- - To stop receiving VC notifications, send a message with **vc!dontnotifyme** on any channel.
- - To get help and more information, send a message with **vc!help** on any channel.
-
-## Add To Your Server
-
-[Add Bot to Your Server](https://discord.com/oauth2/authorize?client_id=719725777997922396&permissions=50333712&scope=bot)
+## رابط اضافة البوت 
